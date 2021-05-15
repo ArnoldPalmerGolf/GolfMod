@@ -1,0 +1,3 @@
+displayName = Golf Mod
+author = Arnold Palmer
+version = 0.1
